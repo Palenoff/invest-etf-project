@@ -1,0 +1,10 @@
+pandas
+gspread
+gspread-dataframe
+oauth2client
+google-api-python-client
+httplib2
+investpy
+requests
+lxml
+python-dateutil
