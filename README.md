@@ -82,5 +82,5 @@ MIT License — Free to use and modify for personal and research purposes.
 ## ✉️ Contact
 
 Developed by **Kirill Palenov**  
-📧 kirill.palenov[at]gmail.com  
+📧 kirill.i.palenov[at]gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/kirillpalenov)
