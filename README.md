@@ -40,7 +40,7 @@ This tool performs the following tasks:
 ## 📁 Project Structure
 
 ```
-├── invest_etf_project.py
+├── invest-etf.py
 ├── requirements.txt
 └── README.md
 ```
@@ -62,7 +62,7 @@ This tool performs the following tasks:
 5. Make sure your ETF tickers are already listed in the first column of the target Google Sheet
 6. Run the script:
    ```bash
-   python src/main.py
+   python invest-etf.py
    ```
 
 ---
